@@ -1,0 +1,33 @@
+  @font-face {  
+    font-family: "Open Sans";
+    src: url(./OpenSans-ExtraBold.ttf), local("Open Sans Extra Bold");   
+    font-weight: 800;
+  }
+
+  @font-face {  
+    font-family: "Inter";
+    src: url(./Inter-Regular.ttf), local("Inter Regular");   
+    font-weight: 400;
+  }
+
+  @font-face {  
+    font-family: "Inter";
+    src: url(./Inter-Bold.ttf), local("Inter Bold");   
+    font-weight: 700;
+  }
+
+  @font-face {  
+    font-family: "Montserrat";
+    src: url(./Montserrat-Regular.ttf), local("Montserrat Regular");   
+    font-weight: 400;
+  }
+
+  @font-face {  
+    font-family: "Montserrat";
+    src: url(./Montserrat-Bold.ttf), local("Montserrat Bold");   
+    font-weight: 700;
+  }
+
+
+
+
